@@ -17,4 +17,4 @@
 - Visualizations include FA convergence, feature weight distribution, PCA projection highlighting anomalies, score distribution with threshold, and precision-recall curves.  
 
 ## Full Report  
-For detailed explanations, mathematical justification, and all visualizations, see the `FA-report.pdf` and our Jupyter notebook files in this repository.
+For detailed explanations, mathematical justification, and all visualizations, see the `FA-report.pdf` and our Jupyter notebook file located in this repository.
